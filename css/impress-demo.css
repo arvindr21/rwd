@@ -777,3 +777,15 @@ margin: 0px auto;
 margin-top: 21px;
 height: 351px;
 }
+
+.rwd-8,.rwd-9,.rwd-7
+{
+	display: block;
+margin: 0px auto;
+margin-top: 21px;
+}
+
+.d-op
+{
+	color: cornflowerblue;
+}
