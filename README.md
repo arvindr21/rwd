@@ -1,4 +1,4 @@
-A quick intro on Responsive web design 
+Responsive web design 
 ===
 [using impress.js]
 
