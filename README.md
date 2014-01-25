@@ -1,4 +1,4 @@
-Responsive web design 
+Responsive Web Design 
 ===
 [using impress.js]
 
