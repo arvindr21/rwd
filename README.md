@@ -4,7 +4,6 @@ Responsive Web Design
 
 @http://arvindr21.github.io/rwd
 
-[using impress.js]
 
 Agenda
 ------
